@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
+<<<<<<< HEAD
 VisualStudioVersion = 17.14.36429.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LifestyleSurvey", "LifestyleSurvey.csproj", "{77F1FF73-6C6F-5680-4F81-BB194787EF3E}"
+=======
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LifestyleSurvey", "LifestyleSurvey\LifestyleSurvey.csproj", "{19A723F8-F1E9-463A-8F11-392F215849D8}"
+>>>>>>> 381c604fa1d5e65fbb1cd66707a782a510ab4872
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +17,17 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
 		{77F1FF73-6C6F-5680-4F81-BB194787EF3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{77F1FF73-6C6F-5680-4F81-BB194787EF3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77F1FF73-6C6F-5680-4F81-BB194787EF3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77F1FF73-6C6F-5680-4F81-BB194787EF3E}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{19A723F8-F1E9-463A-8F11-392F215849D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A723F8-F1E9-463A-8F11-392F215849D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A723F8-F1E9-463A-8F11-392F215849D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A723F8-F1E9-463A-8F11-392F215849D8}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 381c604fa1d5e65fbb1cd66707a782a510ab4872
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
